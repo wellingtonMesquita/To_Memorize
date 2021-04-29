@@ -1,4 +1,4 @@
-# versiculomemory
+# to memorize
 
 A new Flutter project.
 
